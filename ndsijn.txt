@@ -1,2 +1,4 @@
+https://sub-rostunnel.vercel.app/subs/priv_title.txt
 https://144.31.215.30:2096/sub/sub
 https://109.107.161.82:2096/sub/sub
+https://sub-rostunnel.vercel.app/subs/public.txt
