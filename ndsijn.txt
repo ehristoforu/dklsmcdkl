@@ -2,6 +2,6 @@ https://sub-rostunnel.vercel.app/subs/priv_title.txt
 https://168.222.254.175:2096/sub/sub
 https://109.107.161.82:2096/sub/sub
 https://sub-rostunnel.vercel.app/subs/obsh_title.txt
+https://sub-rostunnel.vercel.app/subs/std_best_public.txt
 https://sub-rostunnel.vercel.app/subs/std_public.txt
 https://sub-rostunnel.vercel.app/subs/bs_public.txt
-https://sub-rostunnel.vercel.app/subs/zap_public.txt
