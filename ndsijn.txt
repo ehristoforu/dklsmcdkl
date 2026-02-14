@@ -1,5 +1,6 @@
 https://sub-rostunnel.vercel.app/subs/priv_title.txt
 https://168.222.254.175:2096/sub/sub
+https://connect.stealthsurf.app/to/0214eb56d26ba38b0d93cff6
 https://sub-rostunnel.vercel.app/subs/priv_std_serv.txt
 https://109.107.161.82:2096/sub/sub
 https://sub-rostunnel.vercel.app/subs/priv_bs_serv.txt
