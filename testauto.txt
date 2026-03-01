@@ -1,0 +1,2 @@
+https://sub-rostunnel.vercel.app/subs/privates.txt
+https://sub-rostunnel.vercel.app/subs/obshes.txt
