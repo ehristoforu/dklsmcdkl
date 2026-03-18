@@ -1,3 +1,4 @@
 https://sub-rostunnel.vercel.app/s/zag.txt
 https://sub-rostunnel.vercel.app/s/std.txt
+https://sub-rostunnel.vercel.app/s/bs_my.txt
 https://sub-rostunnel.vercel.app/s/bs.txt
