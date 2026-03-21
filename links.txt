@@ -1,4 +1,4 @@
 https://sub-rostunnel.vercel.app/s/zag.txt
 https://sub-rostunnel.vercel.app/s/std.txt
-https://sub-rostunnel.vercel.app/s/bs_my.txt
+https://raw.githubusercontent.com/ehristoforu/rstnnl-dev/refs/heads/main/s/bs_my.txt?token=GHSAT0AAAAAADXZY6EVPQYZGRXMA7GMCD2Q2N6OOTA
 https://sub-rostunnel.vercel.app/s/bs.txt
