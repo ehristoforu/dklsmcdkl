@@ -1,5 +1,6 @@
 https://sub-rostunnel.vercel.app/s/zag.txt
 https://nwebstore.dmtr.ru:2096/sub/rstnnl
+https://rstnnl-dev14124.netlify.app/s/std.txt
 https://rstnnl-dev14124.netlify.app/s/bs_my.txt
 https://sub-rostunnel.vercel.app/s/bs.txt
 
