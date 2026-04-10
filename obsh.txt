@@ -2,3 +2,11 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist
 https://wlrus.lol/confs/selected.txt
+https://vpn.yzewe.ru/1973871940/Lq9tizBuc-D-eGdZOuhG0g
+https://raw.githubusercontent.com/elenavatrunkina-Testhub/B-c-v-i-p/refs/heads/main/VipBC.txt
+https://raw.githubusercontent.com/gergew452/Generation-Liberty/refs/heads/main/githubmirror/best.txt
+https://white-lists.vercel.app/api/filter?code=RU
+https://raw.githubusercontent.com/prominbro/sub/refs/heads/main/212.txt
+https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs/url_work.txt
+https://mygala.ru/vpn/premium.php
+https://raw.githubusercontent.com/ByeWhiteLists/ByeWhiteLists2/refs/heads/main/ByeWhiteLists2.txt
