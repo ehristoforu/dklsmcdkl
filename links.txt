@@ -1,6 +1,5 @@
 https://sub-rostunnel.vercel.app/s/zag.txt
-https://news.dd.msk.su:2096/test/ngwspw41y0e2o4yp
-https://social.klipp.su:2096/test/c3189pj48ec8052h
+https://social.klipp.su:57853/test/4yanr904dhbpzw05
 https://rstnnl-dev14124.netlify.app/s/std.txt
 https://rstnnl-dev14124.netlify.app/s/bs_my.txt
 https://raw.githubusercontent.com/daktubes/u29091/refs/heads/main/checked/working_vless_top300.txt
