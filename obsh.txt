@@ -9,6 +9,7 @@ https://gitverse.ru/api/repos/flaafix/AetrisVPN/raw/branch/master/AetrisVPN.txt
 
 https://etoneya.su/other
 https://mifa.world/vless
-https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt
-https://wlrus.lol/confs/blackl.txt
 https://vpn.zotus.ru/sub.php
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt
+https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/blacklist.txt
+https://wlrus.lol/confs/blackl.txt
